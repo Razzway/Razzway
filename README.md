@@ -1,4 +1,4 @@
-## Hi there, i'm Razzway 👋
+## Hi there, i'm [Razzway](https://linktr.ee/Razzway) 👋
 
 - 🔭 I’m currently working on [Progressive](https://discord.gg/EtWdxsCv94)
 - 🌱 I’m currently learning Java & Python
