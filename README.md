@@ -10,7 +10,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-        <a href="https://camo.githubusercontent.com/e51564546237aa5ee6c64f6680af40f86a5a13c1ac8a3d765d39d8aec3e137b6/68747470733a2f2f7374617469632e77696b69612e6e6f636f6f6b69652e6e65742f63736f2f696d616765732f302f30662f4c75612d6c6f676f2d6e6f6c6162656c2e7376672e706e672f7265766973696f6e2f6c61746573743f63623d3230313831323031313434363038" target="_blank"> <img src="https://camo.githubusercontent.com/e51564546237aa5ee6c64f6680af40f86a5a13c1ac8a3d765d39d8aec3e137b6/68747470733a2f2f7374617469632e77696b69612e6e6f636f6f6b69652e6e65742f63736f2f696d616765732f302f30662f4c75612d6c6f676f2d6e6f6c6162656c2e7376672e706e672f7265766973696f6e2f6c61746573743f63623d3230313831323031313434363038"/> </a>
+    <a href="https://www.lua.org/" target="_blank"> <img src="https://cdn.discordapp.com/attachments/748844923977203762/886191776170401832/lua.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
