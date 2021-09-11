@@ -31,6 +31,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Razzway&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 ## ❤ Views and Followers
 <a href="https://github.com/Razzway/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Razzway">
