@@ -1,7 +1,6 @@
 ## Hi there, i'm [Razzway](https://linktr.ee/Razzway) 👋
 
-- J'ai 15 ans et je suis un apprenti développeur passioné par le monde informatique. Pour le moment, j'ai à mon acquis quelques langages : le Lua, le JavaScript et le Python. 
-- Mes ambitions ? J'aimerai à l'avenir créer un jeu, pas un truc de fou mais c'est une expérience vraiment cool !
+- J'ai 15 ans et je suis un apprenti développeur passioné par le monde informatique. Pour le moment, j'ai à mon acquis quelques langages de programmation : le Lua, le JavaScript et le Python. 
 
   <br/>
     <a href="https://github.com/Razzway/github-readme-stats"><img alt="Razzway's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Razzway&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
